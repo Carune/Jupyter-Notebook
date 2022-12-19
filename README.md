@@ -22,4 +22,4 @@ mediapipe의 Face detection - Python Solution API 의 코드 활용하기
 ![image](https://user-images.githubusercontent.com/99489461/208455525-c29a556a-5b54-4bcb-bfa7-22a16de42abf.png)
 
 최소 얼굴 인식도(0~1) 를 0.8 -> 0.95로 설정하여도 동영상 실행 중 눈 코 입이 아닌 곳을 얼굴로 인식하는 경우가 잠깐 발생하여 개선이 필요
-![image](https://user-images.githubusercontent.com/99489461/208456877-6a355c5e-f459-4565-8c32-4ce699721629.png)
+![image](https://user-images.githubusercontent.com/99489461/208457204-b919f85c-3854-4474-80eb-671227815a19.png)
